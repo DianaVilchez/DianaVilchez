@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-
+<img src="https://i.ibb.co/wgFGQH4/5f5fc9ab-d842-44bf-ac19-929ef7e58b61.jpg" width="250" align="right" >
 ¡Hola y bienvenida a mi perfil de GitHub!  Soy Diana y me apasiona el desarrollo web. A lo largo de mi trayectoria, he cultivado un enfoque creativo que impulsa mi dedicación para idear soluciones digitales innovadoras. Mi objetivo es crear soluciones que vayan más allá de la simple funcionalidad, buscando impactar de manera positiva en la vida de quienes las utilizan. Estoy emocionada por seguir creciendo en este fascinante campo y por contribuir con mi creatividad y habilidades al desarrollo de proyectos significativos.
 
 ## 🌐 Socials:
