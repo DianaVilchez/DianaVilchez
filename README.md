@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-<img src="https://i.ibb.co/wgFGQH4/5f5fc9ab-d842-44bf-ac19-929ef7e58b61.jpg" width="200" align="right" >
+<img src="https://i.ibb.co/wgFGQH4/5f5fc9ab-d842-44bf-ac19-929ef7e58b61.jpg" width="200" align="right" style="border-radius:50%" >
 
 
 </br>
